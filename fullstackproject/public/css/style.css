@@ -100,4 +100,5 @@ section {
     border-radius: 4px;
 }
 
-.data-input button {
+.data-input button {
+    padding: 10px 15px;
