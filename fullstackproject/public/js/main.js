@@ -28,4 +28,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 document.addEventListener('DOMContentLoaded', () => {
-    const dataInput = document.getElementById('dataInput');
+    const dataInput = document.getElementById('dataInput');
+    const sendBtn = document.getElementById('sendBtn');
