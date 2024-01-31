@@ -30,4 +30,5 @@ document.addEventListener('DOMContentLoaded', () => {
 document.addEventListener('DOMContentLoaded', () => {
     const dataInput = document.getElementById('dataInput');
     const sendBtn = document.getElementById('sendBtn');
-    const serverMessage = document.getElementById('serverMessage');
+    const serverMessage = document.getElementById('serverMessage');
+
